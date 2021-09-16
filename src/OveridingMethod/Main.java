@@ -17,6 +17,7 @@ class Rec extends Shape{
     @Override
     public float calArea(float x, float y) {
         return x*y;
+
     }
 }
 
